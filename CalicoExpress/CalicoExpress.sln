@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalicoExpress", "CalicoExpress\CalicoExpress.csproj", "{900A19C9-4261-49FE-99FD-74845681C1B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900A19C9-4261-49FE-99FD-74845681C1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900A19C9-4261-49FE-99FD-74845681C1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900A19C9-4261-49FE-99FD-74845681C1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900A19C9-4261-49FE-99FD-74845681C1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {562268A0-A3B5-4D42-9E3E-FB8B3239113F}
+	EndGlobalSection
+EndGlobal

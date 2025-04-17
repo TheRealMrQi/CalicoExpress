@@ -1,0 +1,15 @@
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\CalicoExpress.exe
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\Content/Debug\Backdrop002.xnb
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\CalicoExpress.dll
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\CalicoExpress.deps.json
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\CalicoExpress.runtimeconfig.json
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\CalicoExpress.pdb
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\MonoGame.Framework.dll
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\linux-x64\native\libSDL2-2.0.so.0
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\linux-x64\native\libopenal.so.1
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\osx\native\libSDL2.dylib
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\osx\native\libopenal.1.dylib
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\win-x64\native\SDL2.dll
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\win-x64\native\soft_oal.dll
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\win-x86\native\SDL2.dll
+G:\Code\CalicoExpress\CalicoExpress\CalicoExpress\bin\Release\net6.0\publish\runtimes\win-x86\native\soft_oal.dll
